@@ -25,10 +25,10 @@
 # 5. Start Menu
 #
 # Link to video demonstration for final submission:
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
+# - https://youtu.be/yb4ceKMfSqE
 #
 # Are you OK with us sharing the video with people outside course staff?
-# - yes, and please share this project github link as well!
+# - yes, and please share this project github link as well! https://github.com/MealadE/B58-Assembly-Block-Shooter/tree/main
 #
 # Any additional information that the TA needs to know:
 # To turn off collisions to make it easier to test for winning:
